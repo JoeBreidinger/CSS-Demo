@@ -66,3 +66,18 @@ h2 {
 .secondlist:hover {
     background-color: gray;
 }
+
+h2 {
+    position: sticky;
+    width: 100%;
+    padding: 2%;
+    font-size: 50px;
+    background-color: navy;
+    margin: 50px 0px 0px 0px;
+    color: white;
+    border: 3px solid gray;
+}
+h2:hover {
+    color: gray;
+    font-style: italic;
+}
